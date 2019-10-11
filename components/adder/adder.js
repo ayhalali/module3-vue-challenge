@@ -1,4 +1,5 @@
-const add = (x) => { return x.length }
+const add = (x) => {
+  return x.length }
 
 const adder = new Vue({
   el: '#adder',
